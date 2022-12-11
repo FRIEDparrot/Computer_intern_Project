@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.12)  5 DEC 2022 18:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.12)  9 DEC 2022 13:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -754,27 +754,36 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+<img/NPU_font.jpg, id=4, 221.32687pt x 54.2025pt>
+File: img/NPU_font.jpg Graphic file (type jpg)
+<use img/NPU_font.jpg>
+Package pdftex.def Info: img/NPU_font.jpg  used on input line 17.
+(pdftex.def)             Requested size: 387.00153pt x 94.78134pt.
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 18
+.
+(E:\MiKTeX\tex/latex/ctex/fd\c70rm.fd
+File: c70rm.fd 2022/07/14 v2.5.10 Chinese font definition (CTEX)
+)
 (E:\MiKTeX\tex/generic/ctex/zhmap\ctex-zhmap-windows.tex
 File: ctex-zhmap-windows.tex 2022/07/14 v2.5.10 Windows font map loader for pdf
 TeX and DVIPDFMx (CTEX)
 {C:/Users/Parrot/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{UGBK.sfd}{Un
 icode.sfd}) [1
 
-]
-(Internship_report.aux) ) 
+ <./img/NPU_font.jpg>] (Internship_report.aux) ) 
 Here is how much of TeX's memory you used:
- 17747 strings out of 475380
- 355068 string characters out of 2793183
- 659452 words of memory out of 3000000
- 38779 multiletter control sequences out of 15000+600000
- 472268 words of font info for 36 fonts, out of 8000000 for 9000
+ 17797 strings out of 475380
+ 355839 string characters out of 2793183
+ 660460 words of memory out of 3000000
+ 38819 multiletter control sequences out of 15000+600000
+ 472538 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,5n,104p,762b,350s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E
-:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Internship_report.pdf (1 page, 18922 bytes).
+ 100i,6n,104p,762b,366s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Windows/Fonts/simsun.ttc><E
+:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on Internship_report.pdf (1 page, 28798 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
+ 20 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 22 words of extra memory for PDF output out of 10000 (max. 10000000)
 
